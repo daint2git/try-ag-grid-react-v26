@@ -80,3 +80,16 @@
 .ag-status-bar {
   min-height: 100px;
 }
+
+.redFont {
+  color: red;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.customHeaderMenuButton {
+  float: right;
+  margin: 0 0 0 3px;
+}
